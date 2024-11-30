@@ -1,0 +1,8 @@
+firebase-admin
+python-dotenv
+py-evm
+eth-tester
+web3
+groq
+streamlit
+streamlit_option_menu
